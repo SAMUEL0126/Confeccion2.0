@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img  src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
+ 
 </p>
 <hr>
 <img width=400px height=200px src="/images/Captura.PNG" alt="Project logo"></a>
@@ -10,4 +10,5 @@
 
 <div style="display: flex; justify-content: left; align-items: center;">
   <img width=400px height=200px src="/images/Captura.PNG" alt="Descripción de la imagen">
+  <img  src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
 </div>

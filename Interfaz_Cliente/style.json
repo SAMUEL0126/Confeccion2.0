@@ -1,0 +1,29 @@
+{
+	"QCustomSlideMenu": [{
+		"name": "side_menu",
+		"defaultSize": [{
+			"width": 150,
+			"height": "auto"
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"expandedSize": [{
+			"width": 150,
+			"height": "parent"
+		}],
+		"toggleButton": [{
+			"buttonName": "homeBtn",
+			"icons": [{
+				"whenMenuIsCollapsed": "icons/bluehousehousehome_azulcasa_cas_6791.png",
+				"whenMenuIsExpanded": "icons/arrow_left_16743.png"
+			}]
+			
+		}],
+		"menuTransitionAnimation": [{
+			"animationDuration": 1000,
+			"animationEasingCurve": "OutCirc"	
+		}]	
+	}]
+}

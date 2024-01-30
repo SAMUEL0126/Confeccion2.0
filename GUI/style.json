@@ -1,0 +1,163 @@
+{
+    "ShowLogs": true,
+    "QMainWindow": [
+        {
+            "tittle": "Monitoreo"
+        }
+    ],
+    "QSettings": [
+        {
+            "ThemeSettings": [
+                {
+                    "CustomTheme": [
+                        {
+                            "Background-color": "#1b1b27",
+                            "Text-color": "#fff",
+                            "Accent-color": "#08ACC7",
+                            "Theme-name": "Default-Dark",
+                            "Icons-color": "#fff",
+                            "Default-Theme": true
+                        }
+                    ]
+                }
+            ],
+            "AppSettings": {
+                "OrginizationName": "Monitoreo",
+                "ApplicationName": "Monitoreo Company",
+                "OrginizationDormain": "Monitoreo.org"
+            }
+        }
+    ],
+    "QPushButtonGroup": [
+        {
+            "Buttons": [
+                "prodBtn",
+                "pmecBtn",
+                "Btn",
+                "qualityBtn",
+                "enginBtn",
+                "supervBtn"
+            ],
+            "Style":[
+                {
+                    "Active": "background-color: #1b1b27;border-left: 3px solid #08ACC7; font-weight: bold;",
+                    "NotActive": "background-color: transparent; border:none;"
+                }
+            ]
+        }
+    ],
+    "QCustomSlideMenu": [
+        {
+            "name": "leftMenu",
+            "defaultSize": [
+                {
+                    "width": 0,
+                    "height": "parent"
+                }
+            ],
+            "collapsedSize": [
+                {
+                    "width": 0,
+                    "height": "parent"
+                }
+            ],
+            "expandedSize": [
+                {
+                    "width": 200,
+                    "height": "parent"
+                }
+            ],
+            "toggleButton": [
+                {
+                    "buttonName": "menuBarBtn",
+                    "icons": [
+                        {
+                            "whenMenuIsCollapsed": ":/icons/Icons/align-justify.png",
+                            "whenMenuIsExpanded": ":/icons/Icons/chevron-left.png"
+                        }
+                    ]
+                }
+            ],
+            "menuTransitionAnimation": [
+                {
+                    "animationDuration": 500,
+                    "animationEasingCurve": "Linear"
+                }
+            ]
+        },
+        {
+            "name": "rightMenu",
+            "defaultSize": [
+                {
+                    "width": 0,
+                    "height": "parent"
+                }
+            ],
+            "collapsedSize": [
+                {
+                    "width": 0,
+                    "height": "parent"
+                }
+            ],
+            "expandedSize": [
+                {
+                    "width": 300,
+                    "height": "parent"
+                }
+            ],
+            "toggleButton": [
+                {
+                    "buttonName": "showUsersBtn",
+                    "icons": [
+                        {
+                            "whenMenuIsCollapsed": ":/icons/Icons/plus-square.png",
+                            "whenMenuIsExpanded": ":/icons/Icons/chevron-right.png"
+                        }
+                    ]
+                }
+            ],
+            "menuTransitionAnimation": [
+                {
+                    "animationDuration": 500,
+                    "animationEasingCurve": "Linear"
+                }
+            ]
+        }
+    ],
+    "QCustomQStackedWidget":[
+		{
+			"name":"mainPages",
+			"transitionAnimation":[
+				{
+					"fade":[
+						{
+							"active": true,
+							"duration":500,
+							"easingCurve": "OutBack"
+						}
+					],
+					"slide":[
+						{
+							"active":true,
+							"duration": 500,
+							"direction": "vertical",
+							"easingCurve": "OutBack"
+						}
+					]
+				}
+			],
+			"navigation":[
+				{
+					"navigationButtons":[
+						{
+							"prodBtn": "prodPage",
+							"pmecBtn": "pmPage",
+                            "Btn": "insertPage"
+						}
+					]
+				}
+			]
+	
+		}
+	]
+}

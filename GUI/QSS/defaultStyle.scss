@@ -1,0 +1,66 @@
+
+//===================================================//
+// FILE AUTO-GENERATED. PUT YOUR DEFAULT STYLES HERE. 
+// THESE STYLES WILL OVERIDE THE THEME STYLES
+//====================================================//
+*{
+	border: none;
+	background-color: transparent;
+	background: transparent;
+	padding: 0;
+	margin: 0;
+	color: #fff;
+}
+#centralwidget,#mainBodyContent,QLineEdit,QComboBox{
+	background-color: #1b1b27;
+}
+
+#header,#mainBody{
+
+	background-color: #27263c;
+
+}
+#pushButton{
+	border: 2px solid #08ACC7;
+	border-radius: 21px;
+	text-align: center;
+}
+
+#addUserBtn{
+	background-color: #08ACC7;
+	border-radius:10px;
+}
+
+#leftMenu QPushButton{
+	text-align: left;
+	padding: 5px 10px;
+	border-top-left-radius:10px;
+	border-bottom-left-radius:10px;
+    border-bottom-right-radius:0;
+    border-bottom-right-radius:0;
+    background-color: transparent;
+
+}
+
+#prodBtn{
+	border-left: 3px solid #08ACC7;
+	font-weight: bold;
+    background-color: #1b1b27;
+}
+
+QLineEdit{
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+QComboBox{
+	padding: 5px 10px;
+	border-radius: 5px;
+}           
+#showUsersBtn{
+	background-color: #08ACC7;
+	border-radius:10px;
+} 
+//===================================================//
+// END //
+//====================================================//
+            

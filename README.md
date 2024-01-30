@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img  src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
+ <img width=400px height=80px src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
 </p>
 <hr>
 <img width=400px height=200px src="/images/Captura.PNG" alt="Project logo"></a>

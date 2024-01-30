@@ -9,5 +9,5 @@
 </a>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img width=400px height=80px src="/images/Captura.PNG" alt="Descripción de la imagen">
+  <img width=400px height=200px src="/images/Captura.PNG" alt="Descripción de la imagen">
 </div>

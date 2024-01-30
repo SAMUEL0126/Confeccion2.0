@@ -10,5 +10,5 @@
 
 <hr>
 
-<h3>Uno de nuestros valores corporativos es la honestidad, por eso si evidencias algún caso irregular, repórtalo a la Línea Ética: 01-8000-180 263 o al correo</h3><h2 align="center">asisomos@crystal.com.co</h2>
+<h4>Uno de nuestros valores corporativos es la honestidad, por eso si evidencias algún caso irregular, repórtalo a la Línea Ética: 01-8000-180 263 o al correo</h4><h3 align="center">asisomos@crystal.com.co</h3>
 </a>

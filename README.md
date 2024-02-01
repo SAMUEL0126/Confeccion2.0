@@ -11,8 +11,9 @@
 </p>
 <hr>
 <p align="right">
+ <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Descripción de la imagen">
 <h3 align="right">Interfaz Base de Datos</h3>
-  <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Descripción de la imagen">
+ 
   </p>
 </div>
 <hr>

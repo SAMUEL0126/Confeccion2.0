@@ -59,6 +59,7 @@ class AppFunctions():
             return c
         except Error as e:
             print(e)
+            
 ##################################################################################################
 # Funcion para agregar las personas a la base de datos
 

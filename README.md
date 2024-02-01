@@ -4,7 +4,7 @@
 <p align="center">
   <a href="" rel="noopener">
 </p>
-<div>
+<div style="display: flex;">
 <p align="left">
 
 <img width=400px height=200px src="/images/Captura.PNG" alt="Project logo"></a>

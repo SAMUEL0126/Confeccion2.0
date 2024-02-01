@@ -1,7 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
 </p>
-<hr>
 <h3>Interfaz Visual Studio</h3>
 <img width=400px height=200px src="/images/Captura.PNG" alt="Project logo"></a>
 <hr>

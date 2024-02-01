@@ -10,7 +10,7 @@
 <img width=400px height=200px src="/images/Captura.PNG" alt="Project logo"></a>
 </p>
 <hr>
-<p align="right">
+<p align="right" style="margin-bottom: 10px;">
 
   <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Descripción de la imagen">
   </p>

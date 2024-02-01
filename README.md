@@ -15,7 +15,7 @@
   </p>
 </div>
 <hr>
-<h3>(Boceto) Interfaz de Usuario</h3>
+<h3 align="left">(Boceto) Interfaz de Usuario</h3>
  <img width=400px height=200px src="/images/CapturaBoceto.PNG" alt="">
 <hr>
 <br>

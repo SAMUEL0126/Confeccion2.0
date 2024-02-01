@@ -1,5 +1,5 @@
-<p align="center" width=400px>
-Confeccion 2.0
+<p align="center">
+<h3>Confeccion 2.0</h3>
   <a href="" rel="noopener">
 </p>
 <h3>Interfaz Visual Studio</h3>

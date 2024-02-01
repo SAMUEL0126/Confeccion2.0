@@ -60,6 +60,8 @@ class AppFunctions():
         except Error as e:
             print(e)
 ##################################################################################################
+# Funcion para agregar las personas a la base de datos
+
     def addUser(self,dbFolder):
         conn = AppFunctions.create_connection(dbFolder)
         userID = self.ui.userID.text()

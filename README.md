@@ -4,18 +4,22 @@
 <p align="center">
   <a href="" rel="noopener">
 </p>
+<div>
+<p align="left">
 <h3>Interfaz Visual Studio</h3>
 <img width=400px height=200px src="/images/Captura.PNG" alt="Project logo"></a>
+</p>
 <hr>
-<div style="display: flex; justify-content: left; align-items: center;">
+<p align="right">
 <h3>Interfaz Base de Datos</h3>
   <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Descripción de la imagen">
+  </p>
 </div>
 <hr>
 <h3>(Boceto) Interfaz de Usuario</h3>
  <img width=400px height=200px src="/images/CapturaBoceto.PNG" alt="">
 <hr>
-<p align="right">
+<p align="center">
 <img width=400px height=80px src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
 </p>
 <hr>

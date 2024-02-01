@@ -15,7 +15,7 @@
 <h3>(Boceto) Interfaz de Usuario</h3>
  <img width=400px height=200px src="/images/CapturaBoceto.PNG" alt="">
 <hr>
-<p align="center">
+<p align="left">
 <img width=400px height=80px src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
 </p>
 <hr>

@@ -1,5 +1,6 @@
+<h1 align = "center">Confeccion 2.0</h1>
 <p align="center">
-<h3>Confeccion 2.0</h3>
+
   <a href="" rel="noopener">
 </p>
 <h3>Interfaz Visual Studio</h3>

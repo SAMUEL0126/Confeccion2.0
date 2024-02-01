@@ -84,6 +84,7 @@ class AppFunctions():
 
             AppFunctions.displayUsers(self, AppFunctions.getAllUsers(dbFolder))
 
+##################################################################################################
 
     def displayUsers(self,rows):
         for row in rows:

@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width=400px>
 Confeccion 2.0
   <a href="" rel="noopener">
 </p>

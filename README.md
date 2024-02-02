@@ -1,4 +1,4 @@
-<h2 align = "center">Proyect Confeccion 2.0</h2>
+<h1 align = "center">Continuacion Proyecto Confeccion 2.0</h1>
 <hr>
 <p align="center">
   <a href="" rel="noopener">

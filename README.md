@@ -1,4 +1,4 @@
-<h1 align = "center">Proyect Confeccion 2.0</h1>
+<h2 align = "center">Proyect Confeccion 2.0</h2>
 <hr>
 <p align="center">
   <a href="" rel="noopener">

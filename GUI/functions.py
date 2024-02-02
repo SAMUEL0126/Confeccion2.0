@@ -9,7 +9,9 @@ class AppFunctions():
     def __init__(self, arg):
         super(AppFunctions, self).__init__()
         self.arg = arg
+        
 ###############"""Juanfe: Genero la conexión con la base de datos de prueba (SQLITE)"""###################
+
     def create_connection(db_file):
         conn = None 
         try: 
@@ -18,7 +20,9 @@ class AppFunctions():
             print(e)    
 
         return conn
-###################################################################################################       
+    
+###################################################################################################    
+   
 #########################"""Juanfe: función que crea la tabla"""########################################
 
     def create_table(conn,create_table_sql):
@@ -29,7 +33,9 @@ class AppFunctions():
             print(e)
 
 #####################################################################################################
+
 ######################"""Función principal"""########################################
+
     def main(dbFolder):
         create_user_table = """CREATE TABLE IF NOT EXISTS marcaciones (
                                         USER_ID INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -46,6 +52,8 @@ class AppFunctions():
             print("Error! No se ha podido conectar con la base de datos")
 #########################################################################################################
 
+# Funcion para Obtener todos los usuarios 
+
     def getAllUsers(dbFolder):
         conn= AppFunctions.create_connection(dbFolder)
         
@@ -61,6 +69,7 @@ class AppFunctions():
             print(e)
             
 ##################################################################################################
+
 # Funcion para agregar las personas a la base de datos
 
     def addUser(self,dbFolder):
@@ -89,6 +98,8 @@ class AppFunctions():
 
 ##################################################################################################
 
+# Funcion para Mostrar los usuarios
+ 
     def displayUsers(self,rows):
         for row in rows:
             rowPosition = self.ui.tableWidget.rowCunt()

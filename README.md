@@ -1,4 +1,5 @@
-<h1 align = "center">Continuacion Proyecto Confeccion 2.0</h1>
+<h1 align = "center">Continuacion Proyecto Confeccion 2.0 </h1>
+<h2  align = "center">Sede Printex Tebaida Quindio</h2>
 <hr>
 <p align="center">
   <a href="" rel="noopener">

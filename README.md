@@ -19,7 +19,7 @@
 <h3 align="left">(Boceto) Interfaz de Usuario</h3>
  <img width=400px height=200px src="/images/CapturaBoceto.PNG" alt="">
  <hr>
- <h3 align="right">(Guia) Interfaz Cliente</h3>
+ <h3 align="right">(Ayuda) Interfaz Cliente</h3>
 <p align="right">
  <img width=400px height=200px src="/images/CapturaCliente.PNG" alt="Descripción de la imagen">
   </p>
